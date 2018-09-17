@@ -1,0 +1,29 @@
+_repo: England-and-Napoleon-1801-1815_52514
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Winbolt, S. E. (Samuel Edward)
+    alias: Winbolt, Samuel Edward
+    birthdate: 1868
+    deathdate: 1944
+    gutenberg_agent_id: '45567'
+    url: http://www.gutenberg.org/2009/agents/45567
+description: ''
+gutenberg_issued: '2016-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52514'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Relations with British'
+- !lcsh 'Great Britain -- History, Military -- 1789-1820 -- Sources'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Proposed invasion of England, 1793-1805 --
+  Sources'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- 1789-1820 -- Sources'
+- GITenberg
+title: England and Napoleon (1801-1815)
+url: http://www.gutenberg.org/ebooks/52514
